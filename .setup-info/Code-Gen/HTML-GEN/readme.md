@@ -1,4 +1,4 @@
-# Place a File named "filenames.txt" in the folder named "file"
+# Place a File named "filenames.txt" in the folder named "gen"
 
 ## Now there are a few components you may have to change.
 
@@ -18,7 +18,7 @@ Change the variable "countt" (in Cat.py) to the ID of ONE NUMBER BEFORE the ID o
 
 There is a helpful chart above to show the ID ranges for each game type. Make sure your game is within those ranges, if you'd like it to be that type.
 
-Now make sure your all of your file names (without extensions) are in the "filenames.txt" file. Make sure there are no spaces in the file names, and that they have no ' or % or other weird characters not found in ours, then place your file in the "file" folder.
+Now make sure your all of your file names (without extensions) are in the "filenames.txt" file. Make sure there are no spaces in the file names, and that they have no ' or % or other weird characters not found in ours, then place your file in the "gen" folder.
 
 Run the python file, copy all the text in a generated file called "gen.txt" and then delete the last line (it will be a blank line). 
 
