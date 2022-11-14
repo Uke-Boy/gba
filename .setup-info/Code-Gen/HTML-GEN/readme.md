@@ -1,6 +1,6 @@
-# Place a File named "filenames.txt" in the folder named "gen"
+### Put all of your file names in a list in "filenames.txt" in the folder "gen"
 
-## Now there are a few components you may have to change.
+## Now there are a few components you may have to change:
 
 Change the variable "countt" (in Cat.py) to the ID of ONE NUMBER BEFORE the ID of the first game you would like to generate.
 
