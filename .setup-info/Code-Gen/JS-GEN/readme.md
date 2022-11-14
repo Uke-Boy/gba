@@ -1,4 +1,4 @@
-# Place a File named "filenames.txt" in the folder named "gen"
+### Put all of your file names in a list in "filenames.txt" in the folder "gen"
 
 ## Now there are a few components you may have to change.
 
