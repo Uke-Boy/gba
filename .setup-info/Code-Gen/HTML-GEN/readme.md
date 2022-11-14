@@ -4,8 +4,7 @@
 
 Change the variable "countt" (in Cat.py) to the ID of ONE NUMBER BEFORE the ID of the first game you would like to generate.
 
-``
-1 - 1000 = GBA
+```1 - 1000 = GBA
 
 1001 - 2000 = NES
 
@@ -21,8 +20,7 @@ Change the variable "countt" (in Cat.py) to the ID of ONE NUMBER BEFORE the ID o
 
 9001 - 10000 = PS1
 
-10001 - 11000 = Sega MD
-``
+10001 - 11000 = Sega MD```
 
 There is a helpful chart above to show the ID ranges for each game type. Make sure your game is within those ranges, if you'd like it to be that type.
 
