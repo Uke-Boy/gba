@@ -1,6 +1,6 @@
 ### Put all of your file names in a list in "filenames.txt" in the folder "gen"
 
-## Now there are a few components you may have to change.
+## Now there are a few components you may have to change:
 
 Please change the variable "gameType" in Cat.py to the name of the folder in your gba-host folder that corresponds with the type of games you would like to generate code for. (Default is gba-alt)
 
